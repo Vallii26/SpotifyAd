@@ -5,6 +5,10 @@ It only works for the Spotify App, not Spotify Web. (macOS and Windows)
 
 It is a personal project, it is not meant to be any serious replacement or competitor ro other existing programs and apps.
 
+*WARNING*
+-----------
+Windows program not currently working!
+
 *HOW TO USE*
 --------------
 
