@@ -41,7 +41,7 @@ def is_spotify_running():
 
 
 # Replace with the actual Spotify playlist URI you want to play
-playlist_uri = "spotify:playlist:https://open.spotify.com/playlist/3eDgZy7hcDzbRTVGAEOjLz?si=6d2739b3878a4bce"
+playlist_uri = "spotify:playlist:YOUR_PLAYLIST_URI"
 
 
 # Continuously monitor Spotify's state
