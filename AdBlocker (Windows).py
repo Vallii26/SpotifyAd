@@ -44,7 +44,7 @@ while True:
 
         print(f"Current Duration: {current_duration} seconds")
 
-        if current_duration <= 30:
+        if current_duration == 30 or current_direction == 15:
             close_spotify()
 
             time.sleep(2)
