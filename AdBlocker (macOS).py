@@ -47,7 +47,7 @@ while True:
         current_duration = get_track_duration()
         print(f'Track Duration: {current_duration // 1000}')
 
-        if current_duration // 1000 == 30:
+        if current_duration // 1000 == 30 or current_duration // 1000 == 15:
             close_spotify()
             time.sleep(2)
             open_spotify_and_play(playlist_uri)
