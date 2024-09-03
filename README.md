@@ -14,6 +14,6 @@ Windows program not currently working!
 
 - Download the appropriate file (macOS or Windows)
 - On your Spotify App, select the playlist you want to use when the app is openes, click share and copy the link
-- Paste that link where it says: playlist_uri = "spotify:playlist:YOUR_PLAYLIST_URI", and paste the link on the YOUR_PLAYLIST_URI part
-- Run the program and it should open spotify if closed, if the app is opened it will close it whenever an add appears
+- Find the line: playlist_uri = "spotify:playlist:YOUR_PLAYLIST_URI", and paste the link on the "YOUR_PLAYLIST_URI" part
+- Run the program and it should open spotify if closed, if the app is opened it will close it whenever an ad appears
 - It is now ready to go!
